@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Guessing Game for Paranthaman Gnanasekar  b4f6c389</title>
+<title>  b4f6c389</title>
 </head>
 <body>
 <h1>Welcome to my guessing game</h1>
